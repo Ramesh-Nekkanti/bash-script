@@ -1,0 +1,2 @@
+this is a sample file
+i am learning linux 
